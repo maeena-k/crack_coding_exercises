@@ -18,7 +18,7 @@ def minion_game(string):
     elif score_s == score_k:
         winner_name_score = 'Draw'
     
-    print(return_val)
+    print(winner_name_score)
             
 
 if __name__ == '__main__':
